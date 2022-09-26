@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharp.Security.Web", "Sharp.Security.Web\Sharp.Security.Web.csproj", "{3F3E12D1-A493-4362-B7A9-77CA7928E92F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sharp.Security.Web.Tests", "Sharp.Security.Web.Tests\Sharp.Security.Web.Tests.csproj", "{61DCFE2A-A103-4644-A82B-2DC7EB258BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F3E12D1-A493-4362-B7A9-77CA7928E92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3E12D1-A493-4362-B7A9-77CA7928E92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3E12D1-A493-4362-B7A9-77CA7928E92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3E12D1-A493-4362-B7A9-77CA7928E92F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61DCFE2A-A103-4644-A82B-2DC7EB258BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61DCFE2A-A103-4644-A82B-2DC7EB258BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61DCFE2A-A103-4644-A82B-2DC7EB258BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61DCFE2A-A103-4644-A82B-2DC7EB258BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
