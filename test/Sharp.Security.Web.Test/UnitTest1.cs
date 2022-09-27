@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace Sharp.Security.Web.Tests;
+namespace Sharp.Security.Web.Test;
 
 public class UnitTest1
 {
